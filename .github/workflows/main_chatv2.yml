@@ -52,5 +52,5 @@ jobs:
         with:
           app-name: 'ChatV2'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_C7BA8125FF7F427090F7F5E65BD3FCE6 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_7B1EF6CA4FA84D7F84C6BDA9E77B2D3A }}
           package: .
